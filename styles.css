@@ -114,6 +114,11 @@ footer {
     width: 100%;
     bottom: 0;
 }
+.ads-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
 
 @keyframes fadeIn {
     from { opacity: 0; }
