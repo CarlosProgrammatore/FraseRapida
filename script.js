@@ -44,7 +44,7 @@ function generaFrase() {
         estadisticas[categoria]++;
 
         if (audio) {
-            new Audio('/pop.mp3').play();
+            new Audio('click.mp3').play();
         }
 
         if (conteoFrases > 0 && conteoFrases % 10 === 0) {
